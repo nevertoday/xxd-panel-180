@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 180｜Vintage Circular Travel Stamp: condenses a photo's main subject plus one or two telling details of its setting into a small round vintage souvenir stamp on warm aged ivory paper — hand-carved rubber-stamp and etching texture with uneven, worn, broken lines, old paper fibre, pressed relief, ink bleed, slight misregistration and patchy prints, in 2–3 slightly faded stamp-ink colours from the photo (brick red, ochre, turmeric, olive, deep brown) and a few tiny gold-foil touches. Large whitespace, with an English headline and a smaller keyword line below the stamp. The brief forbids left-right layouts and Chinese captions. Outputs PNG top-bottom comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-180 or asks for a vintage travel stamp, rubber-stamp souvenir or postmark-style travel journal from a photo.",
+  "short_description": "复古圆章旅行手账志：把照片主体和一两个环境线索刻成一枚旧纸上的复古圆形纪念章",
+  "zh-CN": {
+    "name": "复古圆章旅行手账志",
+    "tagline": "把照片主角和一两个环境线索刻成一枚圆形复古纪念章，盖在泛旧的象牙纸上。",
+    "look": "温暖做旧的象牙白纸上，盖着一枚小小的圆形纪念印章：照片的核心主体加 1–2 个最有辨识度的环境小元素，用木刻橡皮章和蚀刻版画的断续线条概括，线条粗细不均、带磨损毛边。旧纸纤维、压印起伏、墨色渗透、套印偏差和局部漏印都看得见，细小的装饰线、编号或徽章细节可以用一点金箔。印泥色从照片取 2–3 种，变成微微褪色的砖红、赭石、姜黄、橄榄绿或深棕。章印周围大片留白，章下有一行英文大标题和一行小号关键词。原始提示词禁止左右分栏和中文字幕。",
+    "traits": [
+      "复古圆形纪念章",
+      "木刻橡皮章质感",
+      "旧印泥色",
+      "少量金箔",
+      "英文标题与关键词"
+    ],
+    "good": [
+      "旅行中有代表性的地标和场景：灯塔、雪山、古桥、火车站、海边小屋",
+      "户外和自然观察：露营帐篷、一只鹿、一朵野花、徒步的人",
+      "想做成旅行纪念、明信片、手账贴或旅行品牌徽章的照片"
+    ],
+    "poor": [
+      "想要左右分栏或中文标题的需求，原始提示词默认禁止",
+      "主角太多、需要交代完整场景的照片，圆章里只放得下主体和一两个线索",
+      "想要光滑矢量图标、动漫、水彩、油画厚涂或 3D 效果的需求"
+    ]
+  },
+  "en": {
+    "name": "Vintage Circular Travel Stamp",
+    "tagline": "Carves the star of your photo and one or two setting clues into a round vintage souvenir stamp on aged ivory paper.",
+    "look": "On warm, aged ivory paper sits a small round souvenir stamp: the photo's main subject plus one or two of its most telling surroundings, summed up in the broken lines of a hand-carved rubber stamp and an etching, uneven in weight with worn edges. Old paper fibre, pressed relief, ink bleed, slight misregistration and patchy prints are all visible, and fine ornamental lines, numbers or badge details can carry a touch of gold foil. Two or three colours from the photo become slightly faded stamp inks such as brick red, ochre, turmeric, olive green or deep brown. Wide white space surrounds the stamp, with an English headline and a smaller line of keywords beneath it. The original brief rules out left-right layouts and Chinese captions.",
+    "traits": [
+      "Round souvenir stamp",
+      "Rubber-stamp woodcut texture",
+      "Faded stamp inks",
+      "Touch of gold foil",
+      "English headline and keywords"
+    ],
+    "good": [
+      "Landmarks and scenes that sum up a trip: a lighthouse, a snowy peak, an old bridge, a railway station, a beach hut",
+      "Outdoor and nature-watching photos: a camping tent, a deer, a wildflower, a hiker",
+      "Photos you want as a travel keepsake, a postcard, a journal sticker or a travel-brand badge"
+    ],
+    "poor": [
+      "Requests for a left-right layout or Chinese captions, which the original brief rules out by default",
+      "Photos with many subjects or a scene that must be shown in full, as the stamp holds only the subject and one or two clues",
+      "Requests for slick vector icons, anime, watercolour, thick oil paint or 3D"
+    ]
+  },
+  "ja": {
+    "name": "旅の記憶を刻むレトロ円形スタンプ",
+    "tagline": "写真の主役と周囲の手がかり一、二点を、古びた象牙色の紙に押したレトロな丸い記念スタンプに刻みます。",
+    "look": "温かく古びた象牙色の紙に、小さな丸い記念スタンプが押されています。写真の主役に、いちばん特徴的な周囲の要素を一、二点加え、手彫りの消しゴムはんこやエッチングの途切れる線でまとめます。線の太さは不揃いで、すり減った縁があります。古い紙の繊維、押した凹凸、インクのにじみ、わずかな版ずれ、かすれがすべて見え、細い飾り線、番号、紋章の細部に少しだけ金箔を使うこともあります。色は写真から二、三色を取り、少し褪せたレンガ色、黄土、ウコン色、オリーブ、焦げ茶のような古いスタンプインクの色にします。スタンプのまわりは広い余白で、その下に英語の大きな見出しと小さなキーワードが一行ずつ入ります。原始プロンプトでは左右分割と中国語の字幕は使いません。",
+    "traits": [
+      "レトロな丸い記念スタンプ",
+      "消しゴムはんこと木版の質感",
+      "褪せたスタンプインク",
+      "わずかな金箔",
+      "英語の見出しとキーワード"
+    ],
+    "good": [
+      "旅を象徴するランドマークや場面：灯台、雪山、古い橋、駅舎、海辺の小屋",
+      "アウトドアや自然観察の写真：キャンプのテント、鹿、野の花、ハイカー",
+      "旅の記念、ポストカード、手帳シール、旅のブランドのバッジにしたい写真"
+    ],
+    "poor": [
+      "左右分割や中国語の見出しを求める場合（原始プロンプトでは標準で使いません）",
+      "主役が多い写真や場面全体を見せたい写真（スタンプには主役と手がかり一、二点しか入りません）",
+      "なめらかなベクターアイコン、アニメ、水彩、厚塗りの油彩、3D を求める場合"
+    ]
+  },
+  "ko": {
+    "name": "빈티지 원형 여행 기념 스탬프",
+    "tagline": "사진 속 주인공과 주변 단서 한두 가지를 낡은 상아색 종이 위 둥근 빈티지 기념 스탬프로 새깁니다.",
+    "look": "따뜻하게 바랜 상아색 종이 위에 작고 둥근 기념 스탬프가 찍혀 있습니다. 사진의 핵심 주인공에 가장 특징적인 주변 요소 한두 가지를 더해, 손으로 판 고무 스탬프와 에칭 판화의 끊긴 선으로 요약하며, 선은 굵기가 고르지 않고 닳은 가장자리가 있습니다. 오래된 종이 섬유, 눌린 요철, 잉크 번짐, 약간의 판 어긋남, 군데군데 덜 찍힌 자국이 다 보이고, 가는 장식선, 번호, 휘장 세부에 금박을 조금 쓸 수 있습니다. 색은 사진에서 두세 가지를 골라 살짝 바랜 벽돌색, 황토, 강황색, 올리브, 짙은 갈색 같은 옛 스탬프 잉크 색으로 바꿉니다. 스탬프 주변은 넓은 여백이고, 그 아래에 영어 큰 제목 한 줄과 작은 키워드 한 줄이 들어갑니다. 원본 프롬프트는 좌우 분할과 중국어 자막을 쓰지 않습니다.",
+    "traits": [
+      "빈티지 원형 기념 스탬프",
+      "고무 스탬프 목판 질감",
+      "바랜 스탬프 잉크",
+      "약간의 금박",
+      "영어 제목과 키워드"
+    ],
+    "good": [
+      "여행을 대표하는 랜드마크와 장면: 등대, 설산, 옛 다리, 기차역, 바닷가 오두막",
+      "아웃도어와 자연 관찰 사진: 캠핑 텐트, 사슴, 들꽃, 등산객",
+      "여행 기념품, 엽서, 다이어리 스티커, 여행 브랜드 배지로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "좌우 분할이나 중국어 제목을 원하는 경우(원본 프롬프트에서 기본으로 쓰지 않습니다)",
+      "주인공이 많거나 장면 전체를 보여야 하는 사진(스탬프에는 주인공과 단서 한두 가지만 들어갑니다)",
+      "매끈한 벡터 아이콘, 애니메이션풍, 수채, 두꺼운 유화, 3D를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "ختم سفر دائري بطابع عتيق",
+    "tagline": "يحفر بطل صورتك وتلميحاً أو تلميحين من مكانه في ختم تذكاري دائري عتيق على ورق عاجي قديم.",
+    "look": "على ورق عاجي دافئ قديم يستقر ختم تذكاري دائري صغير: العنصر الرئيسي في الصورة مع عنصر أو عنصرين من أبرز ما يحيط به، مختزلة بخطوط متقطعة كخطوط ختم مطاطي محفور يدوياً وطباعة محفورة، متفاوتة السماكة بحواف مهترئة. تظهر ألياف الورق القديم وبروز الضغط وتسرّب الحبر وانزياح طباعي خفيف وطبعات ناقصة، ويمكن أن تحمل الخطوط الزخرفية الدقيقة أو الأرقام أو تفاصيل الشارة لمسة من رقائق الذهب. تتحول لونان أو ثلاثة ألوان من الصورة إلى أحبار أختام باهتة قليلاً مثل الأحمر الطوبي والمغرة والكركمي والزيتوني والبني الداكن. يحيط بالختم فراغ أبيض واسع، وتحته عنوان كبير بالإنجليزية وسطر أصغر من الكلمات المفتاحية. ويستبعد الوصف الأصلي التخطيط الجانبي والتعليقات الصينية.",
+    "traits": [
+      "ختم تذكاري دائري",
+      "ملمس الختم المطاطي المحفور",
+      "أحبار أختام باهتة",
+      "لمسة رقائق ذهب",
+      "عنوان وكلمات بالإنجليزية"
+    ],
+    "good": [
+      "معالم ومشاهد تلخّص رحلة: منارة، قمة مثلجة، جسر قديم، محطة قطار، كوخ على الشاطئ",
+      "صور الهواء الطلق ومراقبة الطبيعة: خيمة تخييم، غزال، زهرة برية، متنزه على الأقدام",
+      "صور تريدها تذكار سفر أو بطاقة بريدية أو ملصقاً لدفتر يوميات أو شارة لعلامة سياحية"
+    ],
+    "poor": [
+      "طلب تخطيط جانبي أو عناوين صينية، وهو ما يستبعده الوصف الأصلي افتراضياً",
+      "صور فيها عناصر كثيرة أو مشهد يجب أن يظهر كاملاً، إذ لا يتسع الختم إلا للعنصر وتلميح أو تلميحين",
+      "طلب أيقونات متجهية ملساء أو أنمي أو ألوان مائية أو ألوان زيتية كثيفة أو مظهر ثلاثي الأبعاد"
+    ]
+  }
+}
